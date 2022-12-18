@@ -12,112 +12,112 @@ list of articles:
 
 
  
- Data buffer  
-Scripting language  
-Floyd–Warshall algorithm  
-Edmonds–Karp algorithm  
-Flow network  
-Residual neural network  
-String (computer science)  
-Kleene star  
-Substring  
-Superpermutation  
-Palindrome  
-Nipson anomemata me monan opsin  
-Complete graph  
-Connectivity (graph theory)  
-Clique (graph theory)  
-Independent set (graph theory)  
-Synthetic biology  
-Tournament (graph theory)  
-Round-robin tournament  
-Null graph  
-Double factorial  
-Telephone number (mathematics)  
-Involution (mathematics)  
-Euler tour technique  
-Complete bipartite graph  
-Star (graph theory)  
-Star network  
-Tropical geometry  
-Bézout's theorem  
-Algebraic geometry  
-Geometric algebra  
-In-place algorithm  
-Disjoint sets  
-Topology  
-Closure (topology)  
-Neighbourhood (mathematics)  
-Neighborhood illust1 - Neighbourhood (mathematics)  
-Homeomorphism  
-Map (mathematics)  
-Morphism  
-Category theory  
-Axiom of choice  
-Differentiable manifold  
-Bump function  
-Bump - Bump function  
-Cotangent bundle  
-Diffeomorphism  
-Logarithmic scale  
-Breadth-first search  
-Component (graph theory)  
+ 3D computer graphics  
 A* search algorithm  
-Hill climbing  
-Local search (optimization)  
 Adjacency matrix  
-Keep away  
-Taxicab geometry  
-Lasso (statistics)  
-Cartesian coordinate system  
-Lp space  
-L-infinity  
-Dual space  
-View source for Lp space  
-Category:Mathematical chess problems  
-Mathematical chess problem  
-Category:Digital geometry  
-Digital geometry  
-Category:Metric geometry  
-Help:Category  
-Category:Norms (mathematics)  
-Euclidean distance  
-Manhattan distance - Taxicab geometry  
-Dot product  
-Constraint satisfaction problem  
-Linear programming  
+Algebraic geometry  
+Algorithms + Data Structures = Programs  
+Artificial general intelligence  
+Artificial intelligence in video games  
+Automotive paint  
+Axiom of choice  
 Backtracking  
 Boolean satisfiability problem  
-GOFAI  
-Symbolic artificial intelligence  
-Gödel, Escher, Bach  
-Kleene's recursion theorem  
-3D computer graphics  
-Computer graphics (computer science)  
-Glossary of computer graphics  
-Texture mapping  
-The Art of Computer Programming  
-Algorithms + Data Structures = Programs  
-Data structure  
-SHA-2  
-One-way compression function  
-Run-length encoding  
+Breadth-first search  
+Bump - Bump function  
+Bump function  
+Bézout's theorem  
+Cartesian coordinate system  
+Category theory  
+Category:Digital geometry  
+Category:Mathematical chess problems  
+Category:Metric geometry  
+Category:Norms (mathematics)  
+Clique (graph theory)  
+Closure (topology)  
+Complete bipartite graph  
+Complete graph  
+Component (graph theory)  
 Compression ratio  
-Data compression ratio  
-Hindley–Milner type system  
-Extended Backus–Naur form  
-Konami Code  
-Numerical analysis  
-Numerical linear algebra  
 Computational finance  
-Artificial intelligence in video games  
+Computer graphics (computer science)  
+Connectivity (graph theory)  
+Constraint satisfaction problem  
+Cotangent bundle  
+Data buffer  
+Data compression ratio  
+Data structure  
 Decision theory  
-Pathfinding  
-Procedural generation  
-Artificial general intelligence  
-Automotive paint  
+Diffeomorphism  
+Differentiable manifold  
+Digital geometry  
+Disjoint sets  
+Dot product  
+Double factorial  
+Dual space  
+Edmonds–Karp algorithm  
+Euclidean distance  
+Euler tour technique  
+Extended Backus–Naur form  
+Flow network  
+Floyd–Warshall algorithm  
+GOFAI  
+Geometric algebra  
+Glossary of computer graphics  
+Gödel, Escher, Bach  
+Help:Category  
+Hill climbing  
+Hindley–Milner type system  
+Homeomorphism  
+In-place algorithm  
+Independent set (graph theory)  
+Involution (mathematics)  
+Keep away  
+Kleene star  
+Kleene's recursion theorem  
+Konami Code  
+L-infinity  
+Lasso (statistics)  
+Linear programming  
 List of lists of lists  
-Lists of video game companies  
 Lists of encyclopedias  
 Lists of islands  
-Lists of mathematics topics
+Lists of mathematics topics  
+Lists of video game companies  
+Local search (optimization)  
+Logarithmic scale  
+Lp space  
+Manhattan distance - Taxicab geometry  
+Map (mathematics)  
+Mathematical chess problem  
+Morphism  
+Neighborhood illust1 - Neighbourhood (mathematics)  
+Neighbourhood (mathematics)  
+Nipson anomemata me monan opsin  
+Null graph  
+Numerical analysis  
+Numerical linear algebra  
+One-way compression function  
+Palindrome  
+Pathfinding  
+Procedural generation  
+Residual neural network  
+Round-robin tournament  
+Run-length encoding  
+SHA-2  
+Scripting language  
+Star (graph theory)  
+Star network  
+String (computer science)  
+Substring  
+Superpermutation  
+Symbolic artificial intelligence  
+Synthetic biology  
+Taxicab geometry  
+Telephone number (mathematics)  
+Texture mapping  
+The Art of Computer Programming  
+Topology  
+Tournament (graph theory)  
+Tropical geometry  
+ 
