@@ -132,5 +132,6 @@ const articles =
 ]
 
 for (const article of articles) {
-    document.body.innerHTML += `<a href=${article} >${article}` + '<p>'
+       document.body.innerHTML += `<a href=${article} >${article.slice(30)}` + '<p>'
+
 }
