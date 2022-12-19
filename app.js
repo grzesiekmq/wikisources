@@ -132,6 +132,6 @@ const articles =
 ]
 
 for (const article of articles) {
-       document.body.innerHTML += `<a href=${article} >${article.slice(30)}` + '<p>'
+    document.querySelector('ol').innerHTML += `<li><a href=${article} >${article.slice(30)}</li>` + '<p>'
 
 }
