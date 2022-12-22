@@ -25,6 +25,10 @@ const articles = [
         "url": "https://en.wikipedia.org/wiki/Applied_mathematics"
     },
     {
+        "title": "Applied science - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Applied_science"
+    },
+    {
         "title": "Artificial general intelligence - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Artificial_general_intelligence"
     },
@@ -47,6 +51,14 @@ const articles = [
     {
         "title": "Big data - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Big_data"
+    },
+    {
+        "title": "Bit field - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Bit_field"
+    },
+    {
+        "title": "Bit manipulation - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Bit_manipulation"
     },
     {
         "title": "Boolean satisfiability problem - Wikipedia",
@@ -129,6 +141,10 @@ const articles = [
         "url": "https://en.wikipedia.org/wiki/Cloud_computing"
     },
     {
+        "title": "Combinatorial optimization - Wikipedia",
+        "url": "https://en.m.wikipedia.org/wiki/Combinatorial_optimization"
+    },
+    {
         "title": "Complete bipartite graph - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Complete_bipartite_graph"
     },
@@ -170,7 +186,7 @@ const articles = [
     },
     {
         "title": "Computing - Wikipedia",
-        "url": "https://en.m.wikipedia.org/wiki/Computing"
+        "url": "https://en.m.wikipedia.org/w/index.php?title=Computing&mobileaction=toggle_view_mobile"
     },
     {
         "title": "Configuration file - Wikipedia",
@@ -217,6 +233,10 @@ const articles = [
         "url": "https://en.wikipedia.org/wiki/Decision_theory"
     },
     {
+        "title": "Deconvolution - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Deconvolution"
+    },
+    {
         "title": "Diffeomorphism - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Diffeomorphism"
     },
@@ -231,6 +251,10 @@ const articles = [
     {
         "title": "Disjoint sets - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Disjoint_sets"
+    },
+    {
+        "title": "Distributed computing - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Distributed_computing"
     },
     {
         "title": "Dot product - Wikipedia",
@@ -273,10 +297,6 @@ const articles = [
         "url": "https://en.wikipedia.org/wiki/Expert_system"
     },
     {
-        "title": "Extended Backus–Naur form - Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Extended_Backus%E2%80%93Naur_form"
-    },
-    {
         "title": "Fintech - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Fintech"
     },
@@ -287,6 +307,14 @@ const articles = [
     {
         "title": "Floyd–Warshall algorithm - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Floyd%E2%80%93Warshall_algorithm"
+    },
+    {
+        "title": "Fuzzy logic - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Fuzzy_logic"
+    },
+    {
+        "title": "Fuzzy set - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Fuzzy_set"
     },
     {
         "title": "GOFAI - Wikipedia",
@@ -313,10 +341,6 @@ const articles = [
         "url": "https://en.wikipedia.org/wiki/Hill_climbing"
     },
     {
-        "title": "Hindley–Milner type system - Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Hindley%E2%80%93Milner_type_system"
-    },
-    {
         "title": "Homeomorphism - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Homeomorphism"
     },
@@ -329,6 +353,10 @@ const articles = [
         "url": "https://en.wikipedia.org/wiki/Independent_set_(graph_theory)"
     },
     {
+        "title": "Infimum and supremum - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Infimum_and_supremum"
+    },
+    {
         "title": "Information retrieval - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Information_retrieval"
     },
@@ -337,8 +365,16 @@ const articles = [
         "url": "https://en.wikipedia.org/wiki/Information_system"
     },
     {
+        "title": "Inverse problem - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Inverse_problem"
+    },
+    {
         "title": "Involution (mathematics) - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Involution_(mathematics)"
+    },
+    {
+        "title": "Isosurface - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Isosurface"
     },
     {
         "title": "Jacobi eigenvalue algorithm - Wikipedia",
@@ -377,12 +413,24 @@ const articles = [
         "url": "https://en.wikipedia.org/wiki/Lebesgue_covering_dimension"
     },
     {
+        "title": "Level set - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Level_set"
+    },
+    {
+        "title": "Level-set method - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Level-set_method"
+    },
+    {
         "title": "Line (geometry) - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Line_(geometry)"
     },
     {
         "title": "Linear programming - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Linear_programming"
+    },
+    {
+        "title": "List of algorithms - Wikipedia",
+        "url": "https://en.m.wikipedia.org/wiki/List_of_algorithms"
     },
     {
         "title": "List of graphical methods - Wikipedia",
@@ -402,7 +450,7 @@ const articles = [
     },
     {
         "title": "Lists of mathematics topics - Wikipedia",
-        "url": "https://en.m.wikipedia.org/wiki/Lists_of_mathematics_topics"
+        "url": "https://en.m.wikipedia.org/w/index.php?title=Lists_of_mathematics_topics&mobileaction=toggle_view_mobile"
     },
     {
         "title": "Lists of video game companies - Wikipedia",
@@ -429,8 +477,16 @@ const articles = [
         "url": "https://en.wikipedia.org/wiki/Map_(mathematics)"
     },
     {
+        "title": "Marching cubes - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Marching_cubes"
+    },
+    {
         "title": "Markov chain Monte Carlo - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Markov_chain_Monte_Carlo"
+    },
+    {
+        "title": "Mask (computing) - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Mask_(computing)"
     },
     {
         "title": "Mathematical chess problem - Wikipedia",
@@ -443,6 +499,14 @@ const articles = [
     {
         "title": "Mathematical finance - Wikipedia",
         "url": "https://en.m.wikipedia.org/wiki/Mathematical_finance"
+    },
+    {
+        "title": "Maximal and minimal elements - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Maximal_and_minimal_elements"
+    },
+    {
+        "title": "Metaballs - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Metaballs"
     },
     {
         "title": "Monte Carlo integration - Wikipedia",
@@ -459,6 +523,10 @@ const articles = [
     {
         "title": "Multidisciplinary design optimization - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Multidisciplinary_design_optimization"
+    },
+    {
+        "title": "NaN - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/NaN"
     },
     {
         "title": "Natural language processing - Wikipedia",
@@ -501,8 +569,16 @@ const articles = [
         "url": "https://en.wikipedia.org/wiki/One-way_compression_function#Davies%E2%80%93Meyer"
     },
     {
+        "title": "Operations research - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Operations_research"
+    },
+    {
         "title": "Optical character recognition - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Optical_character_recognition"
+    },
+    {
+        "title": "PageRank - Wikipedia",
+        "url": "https://en.m.wikipedia.org/wiki/PageRank"
     },
     {
         "title": "Palindrome - Wikipedia",
@@ -521,12 +597,24 @@ const articles = [
         "url": "https://en.wikipedia.org/wiki/Pattern_recognition"
     },
     {
+        "title": "Petri net - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Petri_net"
+    },
+    {
         "title": "Procedural generation - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Procedural_generation"
     },
     {
+        "title": "Pure mathematics - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Pure_mathematics"
+    },
+    {
         "title": "Question answering - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Question_answering"
+    },
+    {
+        "title": "RSA (cryptosystem) - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/RSA_(cryptosystem)"
     },
     {
         "title": "Residual neural network - Wikipedia",
@@ -557,6 +645,10 @@ const articles = [
         "url": "https://en.wikipedia.org/wiki/Scripting_programming_language"
     },
     {
+        "title": "Search engine optimization - Wikipedia",
+        "url": "https://en.m.wikipedia.org/wiki/Search_engine_optimization"
+    },
+    {
         "title": "Star (graph theory) - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Star_(graph_theory)"
     },
@@ -571,6 +663,10 @@ const articles = [
     {
         "title": "String (computer science) - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/String_(computer_science)"
+    },
+    {
+        "title": "Subnetwork - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Subnet_mask"
     },
     {
         "title": "Substring - Wikipedia",
@@ -635,6 +731,14 @@ const articles = [
     {
         "title": "Virtual organization - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Virtual_organization"
+    },
+    {
+        "title": "Webgraph - Wikipedia",
+        "url": "https://en.m.wikipedia.org/wiki/Webgraph"
+    },
+    {
+        "title": "Word (computer architecture) - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Word_(computer_architecture)"
     },
     {
         "title": "YAML - Wikipedia",
