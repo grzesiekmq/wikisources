@@ -9,6 +9,10 @@ const articles = [
         "url": "https://en.wikipedia.org/wiki/A*_search_algorithm"
     },
     {
+        "title": "AI-complete - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/AI-complete"
+    },
+    {
         "title": "Adjacency matrix - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Adjacency_matrix"
     },
@@ -37,6 +41,14 @@ const articles = [
         "url": "https://en.wikipedia.org/wiki/Artificial_intelligence_in_video_games"
     },
     {
+        "title": "Automated planning and scheduling - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Automated_planning_and_scheduling"
+    },
+    {
+        "title": "Automated reasoning - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Automated_reasoning"
+    },
+    {
         "title": "Automotive paint - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Automotive_paint"
     },
@@ -49,6 +61,14 @@ const articles = [
         "url": "https://en.wikipedia.org/wiki/Backtracking"
     },
     {
+        "title": "Bag-of-words model - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Bag-of-words_model"
+    },
+    {
+        "title": "Bag-of-words model in computer vision - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Bag-of-words_model_in_computer_vision"
+    },
+    {
         "title": "Big data - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Big_data"
     },
@@ -59,6 +79,10 @@ const articles = [
     {
         "title": "Bit manipulation - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Bit_manipulation"
+    },
+    {
+        "title": "Blocks world - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Blocks_world"
     },
     {
         "title": "Boolean satisfiability problem - Wikipedia",
@@ -129,6 +153,10 @@ const articles = [
         "url": "https://en.wikipedia.org/wiki/Category:Norms_(mathematics)"
     },
     {
+        "title": "Chatbot - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Chatbot"
+    },
+    {
         "title": "Clique (graph theory) - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Clique_(graph_theory)"
     },
@@ -173,12 +201,20 @@ const articles = [
         "url": "https://en.wikipedia.org/wiki/Computational_intelligence"
     },
     {
+        "title": "Computational linguistics - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Computational_linguistics"
+    },
+    {
         "title": "Computational physics - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Computational_physics"
     },
     {
         "title": "Computer graphics (computer science) - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Computer_graphics_(computer_science)"
+    },
+    {
+        "title": "Computer security - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Computer_security"
     },
     {
         "title": "Computer vision - Wikipedia",
@@ -209,12 +245,24 @@ const articles = [
         "url": "https://en.wikipedia.org/wiki/Cryptocurrency"
     },
     {
+        "title": "DALL-E - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/DALL-E"
+    },
+    {
+        "title": "Dark web - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Dark_web"
+    },
+    {
         "title": "Data buffer - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Data_buffer"
     },
     {
         "title": "Data compression ratio - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Data_compression_ratio"
+    },
+    {
+        "title": "Data mining - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Data_mining"
     },
     {
         "title": "Data structure - Wikipedia",
@@ -237,12 +285,20 @@ const articles = [
         "url": "https://en.wikipedia.org/wiki/Deconvolution"
     },
     {
+        "title": "Deep web - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Deep_web"
+    },
+    {
         "title": "Diffeomorphism - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Diffeomorphism"
     },
     {
         "title": "Differentiable manifold - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Differentiable_manifold#Definition"
+    },
+    {
+        "title": "Diffusion model - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Diffusion_model"
     },
     {
         "title": "Digital geometry - Wikipedia",
@@ -255,6 +311,14 @@ const articles = [
     {
         "title": "Distributed computing - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Distributed_computing"
+    },
+    {
+        "title": "Document AI - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Document_AI"
+    },
+    {
+        "title": "Document classification - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Document_classification"
     },
     {
         "title": "Dot product - Wikipedia",
@@ -271,6 +335,18 @@ const articles = [
     {
         "title": "Edmonds–Karp algorithm - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Edmonds%E2%80%93Karp_algorithm"
+    },
+    {
+        "title": "Eight queens puzzle - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Eight_queens_puzzle"
+    },
+    {
+        "title": "Elementary function - Wikipedia",
+        "url": "https://en.m.wikipedia.org/wiki/Elementary_function#"
+    },
+    {
+        "title": "Email filtering - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Email_filtering"
     },
     {
         "title": "Ensemble forecasting - Wikipedia",
@@ -321,8 +397,16 @@ const articles = [
         "url": "https://en.wikipedia.org/wiki/GOFAI"
     },
     {
+        "title": "GPT-2 - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/GPT-2"
+    },
+    {
         "title": "Geometric algebra - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Geometric_algebra"
+    },
+    {
+        "title": "Glossary of artificial intelligence - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Glossary_of_artificial_intelligence"
     },
     {
         "title": "Glossary of computer graphics - Wikipedia",
@@ -335,6 +419,10 @@ const articles = [
     {
         "title": "Help:Category - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Help:Category"
+    },
+    {
+        "title": "Hidden Markov model - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Hidden_Markov_model"
     },
     {
         "title": "Hill climbing - Wikipedia",
@@ -357,12 +445,24 @@ const articles = [
         "url": "https://en.wikipedia.org/wiki/Infimum_and_supremum"
     },
     {
+        "title": "Information extraction - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Information_extraction"
+    },
+    {
         "title": "Information retrieval - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Information_retrieval"
     },
     {
         "title": "Information system - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Information_system"
+    },
+    {
+        "title": "Intelligent agent - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Intelligent_agent"
+    },
+    {
+        "title": "Internet Archive - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Internet_Archive"
     },
     {
         "title": "Inverse problem - Wikipedia",
@@ -393,6 +493,10 @@ const articles = [
         "url": "https://en.wikipedia.org/wiki/Kleene%27s_recursion_theorem"
     },
     {
+        "title": "Knowledge representation and reasoning - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Knowledge_representation_and_reasoning"
+    },
+    {
         "title": "Konami Code - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Konami_Code"
     },
@@ -405,12 +509,28 @@ const articles = [
         "url": "https://en.wikipedia.org/wiki/LU_decomposition"
     },
     {
+        "title": "Laplacian matrix - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Laplacian_matrix"
+    },
+    {
         "title": "Lasso (statistics) - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Lasso_(statistics)"
     },
     {
+        "title": "Latent Dirichlet allocation - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation"
+    },
+    {
+        "title": "Latent semantic analysis - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Latent_semantic_analysis"
+    },
+    {
         "title": "Lebesgue covering dimension - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Lebesgue_covering_dimension"
+    },
+    {
+        "title": "Lemmatisation - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Lemmatisation"
     },
     {
         "title": "Level set - Wikipedia",
@@ -509,6 +629,10 @@ const articles = [
         "url": "https://en.wikipedia.org/wiki/Metaballs"
     },
     {
+        "title": "Monkey and banana problem - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Monkey_and_banana_problem"
+    },
+    {
         "title": "Monte Carlo integration - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Monte_Carlo_integration"
     },
@@ -521,16 +645,44 @@ const articles = [
         "url": "https://en.wikipedia.org/wiki/Morphism"
     },
     {
+        "title": "Multi-agent planning - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Multi-agent_planning"
+    },
+    {
+        "title": "Multi-agent system - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Multi-agent_system"
+    },
+    {
         "title": "Multidisciplinary design optimization - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Multidisciplinary_design_optimization"
+    },
+    {
+        "title": "Multiset - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Multiset"
     },
     {
         "title": "NaN - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/NaN"
     },
     {
+        "title": "Named entity - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Named_entity"
+    },
+    {
+        "title": "Natural language generation - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Natural_language_generation"
+    },
+    {
         "title": "Natural language processing - Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Natural_language_processing"
+        "url": "https://en.wikipedia.org/wiki/Natural-language_processing"
+    },
+    {
+        "title": "Natural-language understanding - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Natural-language_understanding"
+    },
+    {
+        "title": "Natural-language user interface - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Natural-language_user_interface"
     },
     {
         "title": "Neighborhood illust1 - Neighbourhood (mathematics) - Wikipedia",
@@ -569,6 +721,14 @@ const articles = [
         "url": "https://en.wikipedia.org/wiki/One-way_compression_function#Davies%E2%80%93Meyer"
     },
     {
+        "title": "Onion routing - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Onion_routing"
+    },
+    {
+        "title": "Ontology (information science) - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ontology_(information_science)"
+    },
+    {
         "title": "Operations research - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Operations_research"
     },
@@ -589,6 +749,10 @@ const articles = [
         "url": "https://en.wikipedia.org/wiki/Parallel_computing"
     },
     {
+        "title": "Parsing - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Parsing"
+    },
+    {
         "title": "Pathfinding - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Pathfinding"
     },
@@ -597,8 +761,16 @@ const articles = [
         "url": "https://en.wikipedia.org/wiki/Pattern_recognition"
     },
     {
+        "title": "Peer-to-peer - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Peer-to-peer"
+    },
+    {
         "title": "Petri net - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Petri_net"
+    },
+    {
+        "title": "Probabilistic context-free grammar - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Probabilistic_context-free_grammar"
     },
     {
         "title": "Procedural generation - Wikipedia",
@@ -645,8 +817,32 @@ const articles = [
         "url": "https://en.wikipedia.org/wiki/Scripting_programming_language"
     },
     {
+        "title": "Search engine - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Search_engine"
+    },
+    {
         "title": "Search engine optimization - Wikipedia",
         "url": "https://en.m.wikipedia.org/wiki/Search_engine_optimization"
+    },
+    {
+        "title": "Semantic Web - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Semantic_Web"
+    },
+    {
+        "title": "Sentiment analysis - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sentiment_analysis"
+    },
+    {
+        "title": "Seq2seq - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Seq2seq"
+    },
+    {
+        "title": "Social media mining - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Social_media_mining"
+    },
+    {
+        "title": "Stable Diffusion - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Stable_Diffusion"
     },
     {
         "title": "Star (graph theory) - Wikipedia",
@@ -659,6 +855,10 @@ const articles = [
     {
         "title": "Statistical physics - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Statistical_physics"
+    },
+    {
+        "title": "Stemming - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Stemming"
     },
     {
         "title": "String (computer science) - Wikipedia",
@@ -705,6 +905,14 @@ const articles = [
         "url": "https://en.wikipedia.org/wiki/Telephone_number_(mathematics)"
     },
     {
+        "title": "Text mining - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Text_mining"
+    },
+    {
+        "title": "Text-to-image model - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Text-to-image_model"
+    },
+    {
         "title": "Texture mapping - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Texture_mapping#Baking"
     },
@@ -713,12 +921,24 @@ const articles = [
         "url": "https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming"
     },
     {
+        "title": "Topic model - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Topic_model"
+    },
+    {
         "title": "Topology - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Topology"
     },
     {
+        "title": "Tor (network) - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tor_(network)"
+    },
+    {
         "title": "Tournament (graph theory) - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Tournament_(graph_theory)"
+    },
+    {
+        "title": "Toy problem - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Toy_problem"
     },
     {
         "title": "Tropical geometry - Wikipedia",
@@ -733,6 +953,14 @@ const articles = [
         "url": "https://en.wikipedia.org/wiki/Virtual_organization"
     },
     {
+        "title": "Wayback Machine - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Wayback_Machine"
+    },
+    {
+        "title": "Weak supervision - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Weak_supervision#Semi-supervised_learning"
+    },
+    {
         "title": "Webgraph - Wikipedia",
         "url": "https://en.m.wikipedia.org/wiki/Webgraph"
     },
@@ -741,8 +969,20 @@ const articles = [
         "url": "https://en.wikipedia.org/wiki/Word_(computer_architecture)"
     },
     {
+        "title": "WordNet - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/WordNet"
+    },
+    {
         "title": "YAML - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/YAML"
+    },
+    {
+        "title": "n-gram - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/N-gram"
+    },
+    {
+        "title": "tf–idf - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tf%E2%80%93idf"
     }
 ];
 
