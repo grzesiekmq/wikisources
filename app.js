@@ -17,16 +17,32 @@ const articles = [
         "url": "https://en.wikipedia.org/wiki/Adjacency_matrix"
     },
     {
+        "title": "Adverse selection - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Adverse_selection"
+    },
+    {
         "title": "Algebraic geometry - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Algebraic_geometry"
+    },
+    {
+        "title": "Algorithmic art - Wikipedia",
+        "url": "https://en.m.wikipedia.org/wiki/Algorithmic_art"
     },
     {
         "title": "Algorithms + Data Structures = Programs - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Algorithms_%2B_Data_Structures_%3D_Programs"
     },
     {
+        "title": "Altmetrics - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Altmetrics"
+    },
+    {
+        "title": "Ambient intelligence - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ambient_intelligence"
+    },
+    {
         "title": "Applied mathematics - Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Applied_mathematics"
+        "url": "https://en.m.wikipedia.org/w/index.php?title=Applied_mathematics&mobileaction=toggle_view_mobile"
     },
     {
         "title": "Applied science - Wikipedia",
@@ -69,8 +85,24 @@ const articles = [
         "url": "https://en.wikipedia.org/wiki/Bag-of-words_model_in_computer_vision"
     },
     {
+        "title": "Bibliometrics - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Bibliometrics"
+    },
+    {
+        "title": "Bibliomining - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Bibliomining"
+    },
+    {
         "title": "Big data - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Big_data"
+    },
+    {
+        "title": "Bio-inspired computing - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Bio-inspired_computing"
+    },
+    {
+        "title": "Biodegradability prediction - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Biodegradability_prediction"
     },
     {
         "title": "Bit field - Wikipedia",
@@ -122,7 +154,7 @@ const articles = [
     },
     {
         "title": "Category:Computational fields of study - Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Category:Computational_fields_of_study"
+        "url": "https://en.m.wikipedia.org/w/index.php?title=Category:Computational_fields_of_study&mobileaction=toggle_view_mobile"
     },
     {
         "title": "Category:Computing - Wikipedia",
@@ -153,8 +185,16 @@ const articles = [
         "url": "https://en.wikipedia.org/wiki/Category:Norms_(mathematics)"
     },
     {
+        "title": "Change machine - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Change_machine"
+    },
+    {
         "title": "Chatbot - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Chatbot"
+    },
+    {
+        "title": "Cheque - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Cheque"
     },
     {
         "title": "Clique (graph theory) - Wikipedia",
@@ -185,16 +225,16 @@ const articles = [
         "url": "https://en.wikipedia.org/wiki/Component_(graph_theory)"
     },
     {
-        "title": "Compression ratio - Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Compression_ratio"
-    },
-    {
         "title": "Computational economics - Wikipedia",
-        "url": "https://en.m.wikipedia.org/wiki/Computational_economics"
+        "url": "https://en.m.wikipedia.org/w/index.php?title=Computational_economics&mobileaction=toggle_view_mobile"
     },
     {
         "title": "Computational finance - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Computational_finance"
+    },
+    {
+        "title": "Computational informatics - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Computational_informatics"
     },
     {
         "title": "Computational intelligence - Wikipedia",
@@ -214,7 +254,7 @@ const articles = [
     },
     {
         "title": "Computer security - Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Computer_security"
+        "url": "https://en.wikipedia.org/wiki/Cybersecurity"
     },
     {
         "title": "Computer vision - Wikipedia",
@@ -237,6 +277,10 @@ const articles = [
         "url": "https://en.wikipedia.org/wiki/Constraint_satisfaction_problem"
     },
     {
+        "title": "Conversational user interface - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Conversational_user_interface"
+    },
+    {
         "title": "Cotangent bundle - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Cotangent_bundle"
     },
@@ -257,12 +301,12 @@ const articles = [
         "url": "https://en.wikipedia.org/wiki/Data_buffer"
     },
     {
-        "title": "Data compression ratio - Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Data_compression_ratio"
+        "title": "Data mining - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Web_mining"
     },
     {
-        "title": "Data mining - Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Data_mining"
+        "title": "Data science - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Data_science"
     },
     {
         "title": "Data structure - Wikipedia",
@@ -274,7 +318,7 @@ const articles = [
     },
     {
         "title": "Decision support system - Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Decision_support_system"
+        "url": "https://en.wikipedia.org/wiki/Decision_support"
     },
     {
         "title": "Decision theory - Wikipedia",
@@ -305,6 +349,10 @@ const articles = [
         "url": "https://en.wikipedia.org/wiki/Digital_geometry"
     },
     {
+        "title": "Digital signature - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Digital_signature"
+    },
+    {
         "title": "Disjoint sets - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Disjoint_sets"
     },
@@ -333,6 +381,10 @@ const articles = [
         "url": "https://en.wikipedia.org/wiki/Dual_space#Continuous_dual_space"
     },
     {
+        "title": "E-commerce - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/E-commerce"
+    },
+    {
         "title": "Edmonds–Karp algorithm - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Edmonds%E2%80%93Karp_algorithm"
     },
@@ -349,6 +401,10 @@ const articles = [
         "url": "https://en.wikipedia.org/wiki/Email_filtering"
     },
     {
+        "title": "Encryption - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Encryption"
+    },
+    {
         "title": "Ensemble forecasting - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Ensemble_forecasting"
     },
@@ -359,6 +415,10 @@ const articles = [
     {
         "title": "Enterprise software - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Enterprise_software#Enterprise_system"
+    },
+    {
+        "title": "Estimator - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Estimator"
     },
     {
         "title": "Euclidean distance - Wikipedia",
@@ -373,8 +433,12 @@ const articles = [
         "url": "https://en.wikipedia.org/wiki/Expert_system"
     },
     {
+        "title": "Finance - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Finance"
+    },
+    {
         "title": "Fintech - Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Fintech"
+        "url": "https://en.wikipedia.org/wiki/Financial_technology"
     },
     {
         "title": "Flow network - Wikipedia",
@@ -383,6 +447,10 @@ const articles = [
     {
         "title": "Floyd–Warshall algorithm - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Floyd%E2%80%93Warshall_algorithm"
+    },
+    {
+        "title": "Forest informatics - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Forest_informatics"
     },
     {
         "title": "Fuzzy logic - Wikipedia",
@@ -401,6 +469,14 @@ const articles = [
         "url": "https://en.wikipedia.org/wiki/GPT-2"
     },
     {
+        "title": "Game theory - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Game_theory"
+    },
+    {
+        "title": "Garbage in, garbage out - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Garbage_in,_garbage_out"
+    },
+    {
         "title": "Geometric algebra - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Geometric_algebra"
     },
@@ -411,6 +487,14 @@ const articles = [
     {
         "title": "Glossary of computer graphics - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Glossary_of_computer_graphics#3d_scene"
+    },
+    {
+        "title": "Graph automorphism - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Graph_automorphism"
+    },
+    {
+        "title": "Graph homomorphism - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Graph_homomorphism"
     },
     {
         "title": "Gödel, Escher, Bach - Wikipedia",
@@ -433,6 +517,10 @@ const articles = [
         "url": "https://en.wikipedia.org/wiki/Homeomorphism"
     },
     {
+        "title": "In the Beginning... Was the Command Line - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/In_the_Beginning..._Was_the_Command_Line"
+    },
+    {
         "title": "In-place algorithm - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/In-place_algorithm"
     },
@@ -445,24 +533,60 @@ const articles = [
         "url": "https://en.wikipedia.org/wiki/Infimum_and_supremum"
     },
     {
+        "title": "Informatics - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Informatics"
+    },
+    {
         "title": "Information extraction - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Information_extraction"
+    },
+    {
+        "title": "Information filtering system - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Information_filtering_system"
+    },
+    {
+        "title": "Information overload - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Information_overload"
     },
     {
         "title": "Information retrieval - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Information_retrieval"
     },
     {
+        "title": "Information science - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Information_science"
+    },
+    {
+        "title": "Information security - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Information_security"
+    },
+    {
         "title": "Information system - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Information_system"
+    },
+    {
+        "title": "Informetrics - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Informetrics"
+    },
+    {
+        "title": "Integrity - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Integrity"
     },
     {
         "title": "Intelligent agent - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Intelligent_agent"
     },
     {
+        "title": "Internal audit - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Internal_audit"
+    },
+    {
         "title": "Internet Archive - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Internet_Archive"
+    },
+    {
+        "title": "Internet of things - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Internet_of_things"
     },
     {
         "title": "Inverse problem - Wikipedia",
@@ -491,6 +615,10 @@ const articles = [
     {
         "title": "Kleene's recursion theorem - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Kleene%27s_recursion_theorem"
+    },
+    {
+        "title": "Kneser graph - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Kneser_graph"
     },
     {
         "title": "Knowledge representation and reasoning - Wikipedia",
@@ -551,6 +679,10 @@ const articles = [
     {
         "title": "List of algorithms - Wikipedia",
         "url": "https://en.m.wikipedia.org/wiki/List_of_algorithms"
+    },
+    {
+        "title": "List of bibliometrics software - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/List_of_bibliometrics_software"
     },
     {
         "title": "List of graphical methods - Wikipedia",
@@ -614,11 +746,11 @@ const articles = [
     },
     {
         "title": "Mathematical economics - Wikipedia",
-        "url": "https://en.m.wikipedia.org/wiki/Mathematical_economics"
+        "url": "https://en.m.wikipedia.org/w/index.php?title=Mathematical_economics&mobileaction=toggle_view_mobile"
     },
     {
         "title": "Mathematical finance - Wikipedia",
-        "url": "https://en.m.wikipedia.org/wiki/Mathematical_finance"
+        "url": "https://en.m.wikipedia.org/w/index.php?title=Mathematical_finance&mobileaction=toggle_view_mobile"
     },
     {
         "title": "Maximal and minimal elements - Wikipedia",
@@ -627,6 +759,14 @@ const articles = [
     {
         "title": "Metaballs - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Metaballs"
+    },
+    {
+        "title": "Metascience - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Metascience"
+    },
+    {
+        "title": "Minimax - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Minimax#Maximin"
     },
     {
         "title": "Monkey and banana problem - Wikipedia",
@@ -701,6 +841,14 @@ const articles = [
         "url": "https://en.wikipedia.org/wiki/Nipson_anomemata_me_monan_opsin"
     },
     {
+        "title": "Non-repudiation - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Non-repudiation"
+    },
+    {
+        "title": "Normal-form game - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Normal-form_game"
+    },
+    {
         "title": "Null graph - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Null_graph"
     },
@@ -717,8 +865,12 @@ const articles = [
         "url": "https://en.wikipedia.org/wiki/Numerical_weather_prediction"
     },
     {
-        "title": "One-way compression function - Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/One-way_compression_function#Davies%E2%80%93Meyer"
+        "title": "OASIS (organization) - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/OASIS_(organization)"
+    },
+    {
+        "title": "Odd graph - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Odd_graph"
     },
     {
         "title": "Onion routing - Wikipedia",
@@ -765,8 +917,20 @@ const articles = [
         "url": "https://en.wikipedia.org/wiki/Peer-to-peer"
     },
     {
+        "title": "Petersen graph - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Petersen_graph"
+    },
+    {
+        "title": "Petersen matrix - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Petersen_matrix"
+    },
+    {
         "title": "Petri net - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Petri_net"
+    },
+    {
+        "title": "Predictive informatics - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Predictive_informatics"
     },
     {
         "title": "Probabilistic context-free grammar - Wikipedia",
@@ -777,8 +941,16 @@ const articles = [
         "url": "https://en.wikipedia.org/wiki/Procedural_generation"
     },
     {
+        "title": "Profiling (information science) - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Profiling_(information_science)"
+    },
+    {
         "title": "Pure mathematics - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Pure_mathematics"
+    },
+    {
+        "title": "Quantitative analysis (finance) - Wikipedia",
+        "url": "https://en.m.wikipedia.org/wiki/Quantitative_analysis_(finance)#/languages"
     },
     {
         "title": "Question answering - Wikipedia",
@@ -789,24 +961,32 @@ const articles = [
         "url": "https://en.wikipedia.org/wiki/RSA_(cryptosystem)"
     },
     {
+        "title": "Regret (decision theory) - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Regret_(decision_theory)#Minimax_regret"
+    },
+    {
         "title": "Residual neural network - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Residual_neural_network"
+    },
+    {
+        "title": "Risk management - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Risk_management"
     },
     {
         "title": "Round-robin tournament - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Round-robin_tournament"
     },
     {
-        "title": "Run-length encoding - Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Run-length_encoding"
-    },
-    {
         "title": "Runge–Kutta methods - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Runge%E2%80%93Kutta_methods"
     },
     {
-        "title": "SHA-2 - Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/SHA-2"
+        "title": "SMART criteria - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/SMART_criteria"
+    },
+    {
+        "title": "Saddle point - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Saddle_point"
     },
     {
         "title": "Sample mean and covariance - Wikipedia",
@@ -825,6 +1005,10 @@ const articles = [
         "url": "https://en.m.wikipedia.org/wiki/Search_engine_optimization"
     },
     {
+        "title": "Security hacker - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Security_hacker"
+    },
+    {
         "title": "Semantic Web - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Semantic_Web"
     },
@@ -837,8 +1021,24 @@ const articles = [
         "url": "https://en.wikipedia.org/wiki/Seq2seq"
     },
     {
+        "title": "Service (systems architecture) - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Service_(systems_architecture)"
+    },
+    {
+        "title": "Share (finance) - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Share_(finance)"
+    },
+    {
+        "title": "Smart speaker - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Smart_speaker"
+    },
+    {
         "title": "Social media mining - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Social_media_mining"
+    },
+    {
+        "title": "Spiking neural network - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Spiking_neural_network"
     },
     {
         "title": "Stable Diffusion - Wikipedia",
@@ -859,6 +1059,10 @@ const articles = [
     {
         "title": "Stemming - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Stemming"
+    },
+    {
+        "title": "Stock - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Stock"
     },
     {
         "title": "String (computer science) - Wikipedia",
@@ -941,16 +1145,48 @@ const articles = [
         "url": "https://en.wikipedia.org/wiki/Toy_problem"
     },
     {
+        "title": "Transportation theory (mathematics) - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Transportation_theory_(mathematics)"
+    },
+    {
         "title": "Tropical geometry - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Tropical_geometry"
+    },
+    {
+        "title": "Ubiquitous computing - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ubiquitous_computing"
+    },
+    {
+        "title": "User (computing) - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Username"
+    },
+    {
+        "title": "User profile - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/User_profile"
+    },
+    {
+        "title": "Utility - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Utility#Functions"
+    },
+    {
+        "title": "Vending machine - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Vending_machine"
     },
     {
         "title": "View source for Lp space - Wikipedia",
         "url": "https://en.wikipedia.org/w/index.php?title=Lp_space&action=edit&section=19"
     },
     {
+        "title": "Virtual assistant - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Virtual_assistant"
+    },
+    {
         "title": "Virtual organization - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Virtual_organization"
+    },
+    {
+        "title": "Wald's maximin model - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Wald%27s_maximin_model"
     },
     {
         "title": "Wayback Machine - Wikipedia",
@@ -965,6 +1201,14 @@ const articles = [
         "url": "https://en.m.wikipedia.org/wiki/Webgraph"
     },
     {
+        "title": "Webometrics - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Webometrics"
+    },
+    {
+        "title": "Wikipedia",
+        "url": "https://www.google.com/search?sa=X&biw=1536&bih=746&sxsrf=AJOqlzVHCrFDkB_Q_ki_EFwV7zH5SWlrPQ:1673203231477&si=AEcPFx5y3cpWB8t3QIlw940Bbgd-HLN-aNYSTraERzz0WyAsdJjNr4CNAQrg_SrGNuEpf-ETi6M2aBefV15G_MHQzwb2Dq4p5J1OVGz3cER4N-jjq3qJPMKZgjF0Cy3OQTZypyQZM2IAoYXIEVEIicbGsWEaa29TtqllI-pCYBmMTt9jtU1GHafwsz_Txhcy-F7-vztHd2q-Q4znoGn1R7MHcvvnrLt3ARf1Pjx1WCpwjiCZuSbbKhuJ5OXRtLbfOZFPTPHibMvFvLnxuXzJs77ezGdiK-rb228E9PX5XVhlJT7tHLNjTHPsDHd6o_bKGZIeUREhD9VIX8opa6EIxEMu4h3rjz0MlA%3D%3D&q=Wikipedia&lei=KQ67Y8CfIa_MrgSq546QAw"
+    },
+    {
         "title": "Word (computer architecture) - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Word_(computer_architecture)"
     },
@@ -977,12 +1221,16 @@ const articles = [
         "url": "https://en.wikipedia.org/wiki/YAML"
     },
     {
+        "title": "Zero-sum game - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Zero-sum_game"
+    },
+    {
         "title": "n-gram - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/N-gram"
     },
     {
         "title": "tf–idf - Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Tf%E2%80%93idf"
+        "url": "https://en.wikipedia.org/wiki/Tf-idf"
     }
 ];
 
