@@ -1,6 +1,6 @@
 # wikisources
 articles from wikipedia
-## visit here: https://grzesiekmq.github.io/wikisources/index.html  
+## visit here: https://vocal-tartufo-4905ec.netlify.app  
   
 ![Screenshot](img.png)
 
